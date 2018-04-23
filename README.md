@@ -1,5 +1,5 @@
 # hcd_field_guide_android_app
-HCD (Human Center Design) Field Guide Helper App - an open-source Android App implementation of IDEO's The Field Guide to Human-Centered Design http://www.designkit.org/resources/1.
+HCD (Human Center Design) Field Guide Helper App - an open-source Android App that is 100.00% inspired by of IDEO's The Field Guide to Human-Centered Design http://www.designkit.org/resources/1.
 
 ## Project Mission
 This project shares the same mission and vision as IDEO, that is "is to spread human-centered design to social sector practitioners around the world." We also hope this helper app can get you solving problems like a designer.
