@@ -11,6 +11,6 @@ Back in 16' Andrew was introduced to and immediately fell in love with the IDEO'
 This project is intented to help practitioners managing project data. No-doubt this app won't replace, nor should it, replace pencils-and-paper requirements. This project produces a tool that is of convience, but should not be seen as a replacement of the source material (IDEO's The Field Guide to Human-Centered Design http://www.designkit.org/resources/1.). This project will always be open-source, always non-commerical, always free*.
 
 ## Disclaimer*
-This project is NOT AFFILIATED, OWNED OR ENDORSED by IDEO in any way, shape or form. Any implementation of this project will always have the same licensing restriction(s) as per IDEO's The Field Guide to Human-Centered Design http://www.designkit.org/resources/1. People at IDEO They may update and change the license in anytime without prior notice, and so will this project.
+This project is NOT AFFILIATED, OWNED OR ENDORSED by IDEO in any way, shape or form. Any implementation of this project will always have the same licensing restriction(s) as per IDEO's The Field Guide to Human-Centered Design http://www.designkit.org/resources/1. People at IDEO may update and change the license in anytime without prior notice, and so will this project.
 
 If this project violates or infringes your copyright, please contact the project owner immediately and the project will be promptly shut-down. Thank You.
